@@ -1,0 +1,61 @@
+SmartDesk AI Conversation
+========================================
+
+SmartDesk AI
+Hi! Welcome, buddy! 💜
+
+1. Click Choose File to select a PDF, TXT, or DOCX.
+2. Type a question and click Send.
+3. Click Summarize for a document summary.
+4. Save your conversation whenever you need it.
+
+Your document is processed using your local AI model.
+
+SmartDesk AI
+Document loaded successfully! 💜
+File: sample.txt
+Characters loaded: 332
+
+Now ask a question or click ✨ Summarize below.
+
+You
+What are the main points in this document?
+
+SmartDesk AI
+Thinking... 💜
+
+SmartDesk AI
+I'd be happy to help you with that.
+
+The main points in this document are:
+
+1. The company launched a new employee training program in January 2026, focusing on Java, Python, and Artificial Intelligence.
+2. A total of 120 employees enrolled in the program.
+
+That's the information I found directly from the provided document. Let me know if you need further assistance!
+
+You
+Please summarize sample.txt.
+
+SmartDesk AI
+Thinking... 💜
+
+SmartDesk AI
+**Document Summary: SmartDesk AI Sample Document**
+
+**Overview:**
+The company launched a new employee training program in January 2026, focusing on Java, Python, and Artificial Intelligence. The program aims to improve technical skills and productivity.
+
+**Main Points:**
+
+• The training program was launched in January 2026.
+• The program focuses on Java, Python, and Artificial Intelligence.
+• A total of 120 employees enrolled in the program.
+
+**Important Facts, Names, and Numbers:**
+
+• Date of program launch: January 2026
+• Number of employees enrolled: 120
+
+**Conclusions or Action Items:**
+None present in the document.

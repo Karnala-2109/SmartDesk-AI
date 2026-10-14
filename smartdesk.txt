@@ -1,0 +1,47 @@
+SmartDesk AI Conversation
+========================================
+
+SMARTDESK AI ✨
+Hi! Welcome, buddy! 💜
+
+1. Click Choose File to load a PDF, TXT, or DOCX.
+2. Type your question in the box below.
+3. Click Send to ask a question.
+4. Click Summarize to summarize your document.
+
+Your document is processed using your local AI model.
+
+  SMARTDESK AI ✨
+Document loaded successfully! 💜
+File: sample.txt
+Characters loaded: 332
+
+Ask a question or click Summarize below.
+
+  YOU 💜
+How many employees enrolled in the training program?
+
+  SMARTDESK AI ✨
+According to the document, the total number of employees who enrolled in the training program is 120.
+
+  YOU 💜
+Please summarize sample.txt.
+
+  SMARTDESK AI ✨
+**Summary of SmartDesk AI Sample Document**
+
+**Overview**
+The document presents a sample employee training program launched by the company in January 2026. The program aims to improve technical skills and productivity.
+
+**Main Points**
+• The program focuses on Java, Python, and Artificial Intelligence.
+• A total of 120 employees enrolled in the program.
+• The main objective is to enhance technical skills and productivity.
+
+**Important Facts, Names, and Numbers**
+• Company: [Not specified in the document]
+• Launch Date: January 2026
+• Total Enrolled Employees: 120
+
+**Conclusions or Action Items**
+None mentioned in the document.

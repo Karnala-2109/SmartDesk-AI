@@ -1,0 +1,2754 @@
+('C:\\Users\\KARNALA GAYATHRI\\SmartDesk_AI\\build\\SmartDeskAI\\PYZ-00.pyz',
+ [('__future__',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\__future__.py',
+   'PYMODULE'),
+  ('_aix_support',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_aix_support.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('_compression',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_compression.py',
+   'PYMODULE'),
+  ('_distutils_hack',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\_distutils_hack\\__init__.py',
+   'PYMODULE'),
+  ('_distutils_hack.override',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\_distutils_hack\\override.py',
+   'PYMODULE'),
+  ('_markupbase',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_markupbase.py',
+   'PYMODULE'),
+  ('_osx_support',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_osx_support.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_py_abc.py',
+   'PYMODULE'),
+  ('_pydatetime',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_pydatetime.py',
+   'PYMODULE'),
+  ('_pydecimal',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('_sitebuiltins',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_sitebuiltins.py',
+   'PYMODULE'),
+  ('_strptime',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_strptime.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_threading_local.py',
+   'PYMODULE'),
+  ('argparse',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\argparse.py',
+   'PYMODULE'),
+  ('ast',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ast.py',
+   'PYMODULE'),
+  ('asyncio',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\__init__.py',
+   'PYMODULE'),
+  ('asyncio.base_events',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\base_events.py',
+   'PYMODULE'),
+  ('asyncio.base_futures',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\base_futures.py',
+   'PYMODULE'),
+  ('asyncio.base_subprocess',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\base_subprocess.py',
+   'PYMODULE'),
+  ('asyncio.base_tasks',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\base_tasks.py',
+   'PYMODULE'),
+  ('asyncio.constants',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\constants.py',
+   'PYMODULE'),
+  ('asyncio.coroutines',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\coroutines.py',
+   'PYMODULE'),
+  ('asyncio.events',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\events.py',
+   'PYMODULE'),
+  ('asyncio.exceptions',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\exceptions.py',
+   'PYMODULE'),
+  ('asyncio.format_helpers',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\format_helpers.py',
+   'PYMODULE'),
+  ('asyncio.futures',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\futures.py',
+   'PYMODULE'),
+  ('asyncio.locks',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\locks.py',
+   'PYMODULE'),
+  ('asyncio.log',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\log.py',
+   'PYMODULE'),
+  ('asyncio.mixins',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\mixins.py',
+   'PYMODULE'),
+  ('asyncio.proactor_events',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\proactor_events.py',
+   'PYMODULE'),
+  ('asyncio.protocols',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\protocols.py',
+   'PYMODULE'),
+  ('asyncio.queues',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\queues.py',
+   'PYMODULE'),
+  ('asyncio.runners',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\runners.py',
+   'PYMODULE'),
+  ('asyncio.selector_events',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\selector_events.py',
+   'PYMODULE'),
+  ('asyncio.sslproto',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\sslproto.py',
+   'PYMODULE'),
+  ('asyncio.staggered',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\staggered.py',
+   'PYMODULE'),
+  ('asyncio.streams',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\streams.py',
+   'PYMODULE'),
+  ('asyncio.subprocess',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\subprocess.py',
+   'PYMODULE'),
+  ('asyncio.taskgroups',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\taskgroups.py',
+   'PYMODULE'),
+  ('asyncio.tasks',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\tasks.py',
+   'PYMODULE'),
+  ('asyncio.threads',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\threads.py',
+   'PYMODULE'),
+  ('asyncio.timeouts',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\timeouts.py',
+   'PYMODULE'),
+  ('asyncio.transports',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\transports.py',
+   'PYMODULE'),
+  ('asyncio.trsock',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\trsock.py',
+   'PYMODULE'),
+  ('asyncio.unix_events',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\unix_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_events',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\windows_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_utils',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\windows_utils.py',
+   'PYMODULE'),
+  ('base64',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\base64.py',
+   'PYMODULE'),
+  ('bdb',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\bdb.py',
+   'PYMODULE'),
+  ('bisect',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\bisect.py',
+   'PYMODULE'),
+  ('bs4',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\bs4\\__init__.py',
+   'PYMODULE'),
+  ('bs4._deprecation',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\bs4\\_deprecation.py',
+   'PYMODULE'),
+  ('bs4._typing',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\bs4\\_typing.py',
+   'PYMODULE'),
+  ('bs4._warnings',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\bs4\\_warnings.py',
+   'PYMODULE'),
+  ('bs4.builder',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\bs4\\builder\\__init__.py',
+   'PYMODULE'),
+  ('bs4.builder._html5lib',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\bs4\\builder\\_html5lib.py',
+   'PYMODULE'),
+  ('bs4.builder._htmlparser',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\bs4\\builder\\_htmlparser.py',
+   'PYMODULE'),
+  ('bs4.builder._lxml',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\bs4\\builder\\_lxml.py',
+   'PYMODULE'),
+  ('bs4.css',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\bs4\\css.py',
+   'PYMODULE'),
+  ('bs4.dammit',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\bs4\\dammit.py',
+   'PYMODULE'),
+  ('bs4.element',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\bs4\\element.py',
+   'PYMODULE'),
+  ('bs4.exceptions',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\bs4\\exceptions.py',
+   'PYMODULE'),
+  ('bs4.filter',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\bs4\\filter.py',
+   'PYMODULE'),
+  ('bs4.formatter',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\bs4\\formatter.py',
+   'PYMODULE'),
+  ('bz2',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\bz2.py',
+   'PYMODULE'),
+  ('calendar',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\calendar.py',
+   'PYMODULE'),
+  ('certifi',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\certifi\\__init__.py',
+   'PYMODULE'),
+  ('certifi.core',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\certifi\\core.py',
+   'PYMODULE'),
+  ('cgi',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\cgi.py',
+   'PYMODULE'),
+  ('charset_normalizer',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\charset_normalizer\\__init__.py',
+   'PYMODULE'),
+  ('charset_normalizer.api',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\charset_normalizer\\api.py',
+   'PYMODULE'),
+  ('charset_normalizer.constant',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\charset_normalizer\\constant.py',
+   'PYMODULE'),
+  ('charset_normalizer.legacy',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\charset_normalizer\\legacy.py',
+   'PYMODULE'),
+  ('charset_normalizer.models',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\charset_normalizer\\models.py',
+   'PYMODULE'),
+  ('charset_normalizer.utils',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\charset_normalizer\\utils.py',
+   'PYMODULE'),
+  ('charset_normalizer.version',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\charset_normalizer\\version.py',
+   'PYMODULE'),
+  ('cmd',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\cmd.py',
+   'PYMODULE'),
+  ('code',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\code.py',
+   'PYMODULE'),
+  ('codeop',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\codeop.py',
+   'PYMODULE'),
+  ('concurrent',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\concurrent\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\concurrent\\futures\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures._base',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\concurrent\\futures\\_base.py',
+   'PYMODULE'),
+  ('concurrent.futures.process',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\concurrent\\futures\\process.py',
+   'PYMODULE'),
+  ('concurrent.futures.thread',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\concurrent\\futures\\thread.py',
+   'PYMODULE'),
+  ('configparser',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\configparser.py',
+   'PYMODULE'),
+  ('contextlib',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\contextlib.py',
+   'PYMODULE'),
+  ('contextvars',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\contextvars.py',
+   'PYMODULE'),
+  ('copy',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\copy.py',
+   'PYMODULE'),
+  ('csv',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\csv.py',
+   'PYMODULE'),
+  ('ctypes',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ctypes\\__init__.py',
+   'PYMODULE'),
+  ('ctypes._endian',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ctypes\\_endian.py',
+   'PYMODULE'),
+  ('ctypes.wintypes',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ctypes\\wintypes.py',
+   'PYMODULE'),
+  ('dataclasses',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\dataclasses.py',
+   'PYMODULE'),
+  ('datetime',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\datetime.py',
+   'PYMODULE'),
+  ('decimal',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\decimal.py',
+   'PYMODULE'),
+  ('difflib',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\difflib.py',
+   'PYMODULE'),
+  ('dis',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\dis.py',
+   'PYMODULE'),
+  ('doctest',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\doctest.py',
+   'PYMODULE'),
+  ('docx',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\docx\\__init__.py',
+   'PYMODULE'),
+  ('docx.api',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\docx\\api.py',
+   'PYMODULE'),
+  ('docx.blkcntnr',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\docx\\blkcntnr.py',
+   'PYMODULE'),
+  ('docx.comments',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\docx\\comments.py',
+   'PYMODULE'),
+  ('docx.dml',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\docx\\dml\\__init__.py',
+   'PYMODULE'),
+  ('docx.dml.color',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\docx\\dml\\color.py',
+   'PYMODULE'),
+  ('docx.document',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\docx\\document.py',
+   'PYMODULE'),
+  ('docx.drawing',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\docx\\drawing\\__init__.py',
+   'PYMODULE'),
+  ('docx.enum',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\docx\\enum\\__init__.py',
+   'PYMODULE'),
+  ('docx.enum.base',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\docx\\enum\\base.py',
+   'PYMODULE'),
+  ('docx.enum.dml',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\docx\\enum\\dml.py',
+   'PYMODULE'),
+  ('docx.enum.section',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\docx\\enum\\section.py',
+   'PYMODULE'),
+  ('docx.enum.shape',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\docx\\enum\\shape.py',
+   'PYMODULE'),
+  ('docx.enum.style',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\docx\\enum\\style.py',
+   'PYMODULE'),
+  ('docx.enum.table',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\docx\\enum\\table.py',
+   'PYMODULE'),
+  ('docx.enum.text',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\docx\\enum\\text.py',
+   'PYMODULE'),
+  ('docx.exceptions',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\docx\\exceptions.py',
+   'PYMODULE'),
+  ('docx.image',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\docx\\image\\__init__.py',
+   'PYMODULE'),
+  ('docx.image.bmp',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\docx\\image\\bmp.py',
+   'PYMODULE'),
+  ('docx.image.constants',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\docx\\image\\constants.py',
+   'PYMODULE'),
+  ('docx.image.exceptions',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\docx\\image\\exceptions.py',
+   'PYMODULE'),
+  ('docx.image.gif',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\docx\\image\\gif.py',
+   'PYMODULE'),
+  ('docx.image.helpers',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\docx\\image\\helpers.py',
+   'PYMODULE'),
+  ('docx.image.image',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\docx\\image\\image.py',
+   'PYMODULE'),
+  ('docx.image.jpeg',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\docx\\image\\jpeg.py',
+   'PYMODULE'),
+  ('docx.image.png',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\docx\\image\\png.py',
+   'PYMODULE'),
+  ('docx.image.tiff',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\docx\\image\\tiff.py',
+   'PYMODULE'),
+  ('docx.opc',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\docx\\opc\\__init__.py',
+   'PYMODULE'),
+  ('docx.opc.constants',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\docx\\opc\\constants.py',
+   'PYMODULE'),
+  ('docx.opc.coreprops',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\docx\\opc\\coreprops.py',
+   'PYMODULE'),
+  ('docx.opc.exceptions',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\docx\\opc\\exceptions.py',
+   'PYMODULE'),
+  ('docx.opc.oxml',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\docx\\opc\\oxml.py',
+   'PYMODULE'),
+  ('docx.opc.package',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\docx\\opc\\package.py',
+   'PYMODULE'),
+  ('docx.opc.packuri',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\docx\\opc\\packuri.py',
+   'PYMODULE'),
+  ('docx.opc.part',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\docx\\opc\\part.py',
+   'PYMODULE'),
+  ('docx.opc.parts',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\docx\\opc\\parts\\__init__.py',
+   'PYMODULE'),
+  ('docx.opc.parts.coreprops',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\docx\\opc\\parts\\coreprops.py',
+   'PYMODULE'),
+  ('docx.opc.phys_pkg',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\docx\\opc\\phys_pkg.py',
+   'PYMODULE'),
+  ('docx.opc.pkgreader',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\docx\\opc\\pkgreader.py',
+   'PYMODULE'),
+  ('docx.opc.pkgwriter',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\docx\\opc\\pkgwriter.py',
+   'PYMODULE'),
+  ('docx.opc.rel',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\docx\\opc\\rel.py',
+   'PYMODULE'),
+  ('docx.opc.shared',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\docx\\opc\\shared.py',
+   'PYMODULE'),
+  ('docx.opc.spec',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\docx\\opc\\spec.py',
+   'PYMODULE'),
+  ('docx.oxml',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\docx\\oxml\\__init__.py',
+   'PYMODULE'),
+  ('docx.oxml.comments',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\docx\\oxml\\comments.py',
+   'PYMODULE'),
+  ('docx.oxml.coreprops',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\docx\\oxml\\coreprops.py',
+   'PYMODULE'),
+  ('docx.oxml.document',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\docx\\oxml\\document.py',
+   'PYMODULE'),
+  ('docx.oxml.drawing',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\docx\\oxml\\drawing.py',
+   'PYMODULE'),
+  ('docx.oxml.exceptions',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\docx\\oxml\\exceptions.py',
+   'PYMODULE'),
+  ('docx.oxml.ns',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\docx\\oxml\\ns.py',
+   'PYMODULE'),
+  ('docx.oxml.numbering',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\docx\\oxml\\numbering.py',
+   'PYMODULE'),
+  ('docx.oxml.parser',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\docx\\oxml\\parser.py',
+   'PYMODULE'),
+  ('docx.oxml.section',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\docx\\oxml\\section.py',
+   'PYMODULE'),
+  ('docx.oxml.settings',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\docx\\oxml\\settings.py',
+   'PYMODULE'),
+  ('docx.oxml.shape',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\docx\\oxml\\shape.py',
+   'PYMODULE'),
+  ('docx.oxml.shared',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\docx\\oxml\\shared.py',
+   'PYMODULE'),
+  ('docx.oxml.simpletypes',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\docx\\oxml\\simpletypes.py',
+   'PYMODULE'),
+  ('docx.oxml.styles',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\docx\\oxml\\styles.py',
+   'PYMODULE'),
+  ('docx.oxml.table',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\docx\\oxml\\table.py',
+   'PYMODULE'),
+  ('docx.oxml.text',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\docx\\oxml\\text\\__init__.py',
+   'PYMODULE'),
+  ('docx.oxml.text.font',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\docx\\oxml\\text\\font.py',
+   'PYMODULE'),
+  ('docx.oxml.text.hyperlink',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\docx\\oxml\\text\\hyperlink.py',
+   'PYMODULE'),
+  ('docx.oxml.text.pagebreak',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\docx\\oxml\\text\\pagebreak.py',
+   'PYMODULE'),
+  ('docx.oxml.text.paragraph',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\docx\\oxml\\text\\paragraph.py',
+   'PYMODULE'),
+  ('docx.oxml.text.parfmt',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\docx\\oxml\\text\\parfmt.py',
+   'PYMODULE'),
+  ('docx.oxml.text.run',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\docx\\oxml\\text\\run.py',
+   'PYMODULE'),
+  ('docx.oxml.xmlchemy',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\docx\\oxml\\xmlchemy.py',
+   'PYMODULE'),
+  ('docx.package',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\docx\\package.py',
+   'PYMODULE'),
+  ('docx.parts',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\docx\\parts\\__init__.py',
+   'PYMODULE'),
+  ('docx.parts.comments',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\docx\\parts\\comments.py',
+   'PYMODULE'),
+  ('docx.parts.document',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\docx\\parts\\document.py',
+   'PYMODULE'),
+  ('docx.parts.hdrftr',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\docx\\parts\\hdrftr.py',
+   'PYMODULE'),
+  ('docx.parts.image',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\docx\\parts\\image.py',
+   'PYMODULE'),
+  ('docx.parts.numbering',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\docx\\parts\\numbering.py',
+   'PYMODULE'),
+  ('docx.parts.settings',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\docx\\parts\\settings.py',
+   'PYMODULE'),
+  ('docx.parts.story',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\docx\\parts\\story.py',
+   'PYMODULE'),
+  ('docx.parts.styles',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\docx\\parts\\styles.py',
+   'PYMODULE'),
+  ('docx.section',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\docx\\section.py',
+   'PYMODULE'),
+  ('docx.settings',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\docx\\settings.py',
+   'PYMODULE'),
+  ('docx.shape',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\docx\\shape.py',
+   'PYMODULE'),
+  ('docx.shared',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\docx\\shared.py',
+   'PYMODULE'),
+  ('docx.styles',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\docx\\styles\\__init__.py',
+   'PYMODULE'),
+  ('docx.styles.latent',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\docx\\styles\\latent.py',
+   'PYMODULE'),
+  ('docx.styles.style',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\docx\\styles\\style.py',
+   'PYMODULE'),
+  ('docx.styles.styles',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\docx\\styles\\styles.py',
+   'PYMODULE'),
+  ('docx.table',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\docx\\table.py',
+   'PYMODULE'),
+  ('docx.text',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\docx\\text\\__init__.py',
+   'PYMODULE'),
+  ('docx.text.font',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\docx\\text\\font.py',
+   'PYMODULE'),
+  ('docx.text.hyperlink',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\docx\\text\\hyperlink.py',
+   'PYMODULE'),
+  ('docx.text.pagebreak',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\docx\\text\\pagebreak.py',
+   'PYMODULE'),
+  ('docx.text.paragraph',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\docx\\text\\paragraph.py',
+   'PYMODULE'),
+  ('docx.text.parfmt',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\docx\\text\\parfmt.py',
+   'PYMODULE'),
+  ('docx.text.run',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\docx\\text\\run.py',
+   'PYMODULE'),
+  ('docx.text.tabstops',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\docx\\text\\tabstops.py',
+   'PYMODULE'),
+  ('docx.types',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\docx\\types.py',
+   'PYMODULE'),
+  ('email',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email.charset',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.errors',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\errors.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('email.generator',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email.header',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\header.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.message',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.parser',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email.policy',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.utils',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\utils.py',
+   'PYMODULE'),
+  ('fnmatch',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\fnmatch.py',
+   'PYMODULE'),
+  ('fractions',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\fractions.py',
+   'PYMODULE'),
+  ('ftplib',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ftplib.py',
+   'PYMODULE'),
+  ('getopt',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\getopt.py',
+   'PYMODULE'),
+  ('getpass',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\getpass.py',
+   'PYMODULE'),
+  ('gettext',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\gettext.py',
+   'PYMODULE'),
+  ('glob',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\glob.py',
+   'PYMODULE'),
+  ('gzip',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\gzip.py',
+   'PYMODULE'),
+  ('hashlib',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\hashlib.py',
+   'PYMODULE'),
+  ('hmac',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\hmac.py',
+   'PYMODULE'),
+  ('html',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\html\\__init__.py',
+   'PYMODULE'),
+  ('html.entities',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\html\\entities.py',
+   'PYMODULE'),
+  ('html.parser',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\html\\parser.py',
+   'PYMODULE'),
+  ('http',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('http.client',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\http\\client.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('http.cookies',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\http\\cookies.py',
+   'PYMODULE'),
+  ('http.server',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\http\\server.py',
+   'PYMODULE'),
+  ('idna',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\idna\\__init__.py',
+   'PYMODULE'),
+  ('idna.core',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\idna\\core.py',
+   'PYMODULE'),
+  ('idna.idnadata',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\idna\\idnadata.py',
+   'PYMODULE'),
+  ('idna.intranges',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\idna\\intranges.py',
+   'PYMODULE'),
+  ('idna.package_data',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\idna\\package_data.py',
+   'PYMODULE'),
+  ('idna.uts46data',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\idna\\uts46data.py',
+   'PYMODULE'),
+  ('importlib',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib._abc',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\_abc.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib.metadata',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\metadata\\__init__.py',
+   'PYMODULE'),
+  ('importlib.metadata._adapters',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\metadata\\_adapters.py',
+   'PYMODULE'),
+  ('importlib.metadata._collections',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\metadata\\_collections.py',
+   'PYMODULE'),
+  ('importlib.metadata._functools',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\metadata\\_functools.py',
+   'PYMODULE'),
+  ('importlib.metadata._itertools',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\metadata\\_itertools.py',
+   'PYMODULE'),
+  ('importlib.metadata._meta',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\metadata\\_meta.py',
+   'PYMODULE'),
+  ('importlib.metadata._text',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\metadata\\_text.py',
+   'PYMODULE'),
+  ('importlib.readers',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\readers.py',
+   'PYMODULE'),
+  ('importlib.resources',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\resources\\__init__.py',
+   'PYMODULE'),
+  ('importlib.resources._adapters',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\resources\\_adapters.py',
+   'PYMODULE'),
+  ('importlib.resources._common',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\resources\\_common.py',
+   'PYMODULE'),
+  ('importlib.resources._itertools',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\resources\\_itertools.py',
+   'PYMODULE'),
+  ('importlib.resources._legacy',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\resources\\_legacy.py',
+   'PYMODULE'),
+  ('importlib.resources.abc',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\resources\\abc.py',
+   'PYMODULE'),
+  ('importlib.resources.readers',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\resources\\readers.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('importlib_resources',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\importlib_resources\\__init__.py',
+   'PYMODULE'),
+  ('importlib_resources._adapters',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\importlib_resources\\_adapters.py',
+   'PYMODULE'),
+  ('importlib_resources._common',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\importlib_resources\\_common.py',
+   'PYMODULE'),
+  ('importlib_resources._functional',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\importlib_resources\\_functional.py',
+   'PYMODULE'),
+  ('importlib_resources._itertools',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\importlib_resources\\_itertools.py',
+   'PYMODULE'),
+  ('importlib_resources.abc',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\importlib_resources\\abc.py',
+   'PYMODULE'),
+  ('importlib_resources.compat',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\importlib_resources\\compat\\__init__.py',
+   'PYMODULE'),
+  ('importlib_resources.compat.py39',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\importlib_resources\\compat\\py39.py',
+   'PYMODULE'),
+  ('importlib_resources.future',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\importlib_resources\\future\\__init__.py',
+   'PYMODULE'),
+  ('importlib_resources.future.adapters',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\importlib_resources\\future\\adapters.py',
+   'PYMODULE'),
+  ('importlib_resources.readers',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\importlib_resources\\readers.py',
+   'PYMODULE'),
+  ('inspect',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\inspect.py',
+   'PYMODULE'),
+  ('ipaddress',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ipaddress.py',
+   'PYMODULE'),
+  ('json',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\json\\__init__.py',
+   'PYMODULE'),
+  ('json.decoder',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\json\\decoder.py',
+   'PYMODULE'),
+  ('json.encoder',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\json\\encoder.py',
+   'PYMODULE'),
+  ('json.scanner',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\json\\scanner.py',
+   'PYMODULE'),
+  ('logging',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('lxml',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\lxml\\__init__.py',
+   'PYMODULE'),
+  ('lxml.ElementInclude',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\lxml\\ElementInclude.py',
+   'PYMODULE'),
+  ('lxml.cssselect',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\lxml\\cssselect.py',
+   'PYMODULE'),
+  ('lxml.doctestcompare',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\lxml\\doctestcompare.py',
+   'PYMODULE'),
+  ('lxml.html',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\lxml\\html\\__init__.py',
+   'PYMODULE'),
+  ('lxml.html.ElementSoup',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\lxml\\html\\ElementSoup.py',
+   'PYMODULE'),
+  ('lxml.html._diffcommand',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\lxml\\html\\_diffcommand.py',
+   'PYMODULE'),
+  ('lxml.html._html5builder',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\lxml\\html\\_html5builder.py',
+   'PYMODULE'),
+  ('lxml.html._setmixin',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\lxml\\html\\_setmixin.py',
+   'PYMODULE'),
+  ('lxml.html.builder',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\lxml\\html\\builder.py',
+   'PYMODULE'),
+  ('lxml.html.clean',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\lxml\\html\\clean.py',
+   'PYMODULE'),
+  ('lxml.html.defs',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\lxml\\html\\defs.py',
+   'PYMODULE'),
+  ('lxml.html.formfill',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\lxml\\html\\formfill.py',
+   'PYMODULE'),
+  ('lxml.html.html5parser',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\lxml\\html\\html5parser.py',
+   'PYMODULE'),
+  ('lxml.html.soupparser',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\lxml\\html\\soupparser.py',
+   'PYMODULE'),
+  ('lxml.html.usedoctest',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\lxml\\html\\usedoctest.py',
+   'PYMODULE'),
+  ('lxml.includes',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\lxml\\includes\\__init__.py',
+   'PYMODULE'),
+  ('lxml.includes.extlibs',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\lxml\\includes\\extlibs\\__init__.py',
+   'PYMODULE'),
+  ('lxml.includes.libexslt',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\lxml\\includes\\libexslt\\__init__.py',
+   'PYMODULE'),
+  ('lxml.includes.libxml',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\lxml\\includes\\libxml\\__init__.py',
+   'PYMODULE'),
+  ('lxml.includes.libxslt',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\lxml\\includes\\libxslt\\__init__.py',
+   'PYMODULE'),
+  ('lxml.isoschematron',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\lxml\\isoschematron\\__init__.py',
+   'PYMODULE'),
+  ('lxml.pyclasslookup',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\lxml\\pyclasslookup.py',
+   'PYMODULE'),
+  ('lxml.usedoctest',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\lxml\\usedoctest.py',
+   'PYMODULE'),
+  ('lzma',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\lzma.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\mimetypes.py',
+   'PYMODULE'),
+  ('multiprocessing',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.connection',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.context',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\context.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\dummy\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy.connection',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\dummy\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.forkserver',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.heap',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\heap.py',
+   'PYMODULE'),
+  ('multiprocessing.managers',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\managers.py',
+   'PYMODULE'),
+  ('multiprocessing.pool',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\pool.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_fork',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\popen_fork.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_forkserver',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\popen_forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_posix',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\popen_spawn_posix.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_win32',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\popen_spawn_win32.py',
+   'PYMODULE'),
+  ('multiprocessing.process',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\process.py',
+   'PYMODULE'),
+  ('multiprocessing.queues',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\queues.py',
+   'PYMODULE'),
+  ('multiprocessing.reduction',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\reduction.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_sharer',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\resource_sharer.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_tracker',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\resource_tracker.py',
+   'PYMODULE'),
+  ('multiprocessing.shared_memory',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\shared_memory.py',
+   'PYMODULE'),
+  ('multiprocessing.sharedctypes',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\sharedctypes.py',
+   'PYMODULE'),
+  ('multiprocessing.spawn',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\spawn.py',
+   'PYMODULE'),
+  ('multiprocessing.synchronize',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\synchronize.py',
+   'PYMODULE'),
+  ('multiprocessing.util',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\util.py',
+   'PYMODULE'),
+  ('netrc',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\netrc.py',
+   'PYMODULE'),
+  ('nturl2path',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\nturl2path.py',
+   'PYMODULE'),
+  ('numbers',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\numbers.py',
+   'PYMODULE'),
+  ('opcode',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\opcode.py',
+   'PYMODULE'),
+  ('optparse',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\optparse.py',
+   'PYMODULE'),
+  ('packaging',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('packaging._elffile',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\packaging\\_elffile.py',
+   'PYMODULE'),
+  ('packaging._manylinux',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\packaging\\_manylinux.py',
+   'PYMODULE'),
+  ('packaging._musllinux',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\packaging\\_musllinux.py',
+   'PYMODULE'),
+  ('packaging._parser',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\packaging\\_parser.py',
+   'PYMODULE'),
+  ('packaging._ranges',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\packaging\\_ranges.py',
+   'PYMODULE'),
+  ('packaging._tokenizer',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\packaging\\_tokenizer.py',
+   'PYMODULE'),
+  ('packaging.licenses',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\packaging\\licenses\\__init__.py',
+   'PYMODULE'),
+  ('packaging.licenses._spdx',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\packaging\\licenses\\_spdx.py',
+   'PYMODULE'),
+  ('packaging.markers',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\packaging\\markers.py',
+   'PYMODULE'),
+  ('packaging.ranges',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\packaging\\ranges.py',
+   'PYMODULE'),
+  ('packaging.requirements',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('packaging.specifiers',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('packaging.tags',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\packaging\\tags.py',
+   'PYMODULE'),
+  ('packaging.utils',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\packaging\\utils.py',
+   'PYMODULE'),
+  ('packaging.version',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\packaging\\version.py',
+   'PYMODULE'),
+  ('pathlib',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\pathlib.py',
+   'PYMODULE'),
+  ('pdb',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\pdb.py',
+   'PYMODULE'),
+  ('pickle',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\pickle.py',
+   'PYMODULE'),
+  ('pkgutil',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\pkgutil.py',
+   'PYMODULE'),
+  ('platform',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\platform.py',
+   'PYMODULE'),
+  ('pprint',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\pprint.py',
+   'PYMODULE'),
+  ('py_compile',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\py_compile.py',
+   'PYMODULE'),
+  ('pydoc',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\pydoc.py',
+   'PYMODULE'),
+  ('pydoc_data',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\pydoc_data\\__init__.py',
+   'PYMODULE'),
+  ('pydoc_data.topics',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\pydoc_data\\topics.py',
+   'PYMODULE'),
+  ('pypdf',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pypdf\\__init__.py',
+   'PYMODULE'),
+  ('pypdf._cmap',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pypdf\\_cmap.py',
+   'PYMODULE'),
+  ('pypdf._codecs',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pypdf\\_codecs\\__init__.py',
+   'PYMODULE'),
+  ('pypdf._codecs._codecs',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pypdf\\_codecs\\_codecs.py',
+   'PYMODULE'),
+  ('pypdf._codecs.adobe_glyphs',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pypdf\\_codecs\\adobe_glyphs.py',
+   'PYMODULE'),
+  ('pypdf._codecs.core_font_metrics',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pypdf\\_codecs\\core_font_metrics.py',
+   'PYMODULE'),
+  ('pypdf._codecs.pdfdoc',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pypdf\\_codecs\\pdfdoc.py',
+   'PYMODULE'),
+  ('pypdf._codecs.std',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pypdf\\_codecs\\std.py',
+   'PYMODULE'),
+  ('pypdf._codecs.symbol',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pypdf\\_codecs\\symbol.py',
+   'PYMODULE'),
+  ('pypdf._codecs.zapfding',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pypdf\\_codecs\\zapfding.py',
+   'PYMODULE'),
+  ('pypdf._configuration',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pypdf\\_configuration.py',
+   'PYMODULE'),
+  ('pypdf._crypt_providers',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pypdf\\_crypt_providers\\__init__.py',
+   'PYMODULE'),
+  ('pypdf._crypt_providers._base',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pypdf\\_crypt_providers\\_base.py',
+   'PYMODULE'),
+  ('pypdf._crypt_providers._cryptography',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pypdf\\_crypt_providers\\_cryptography.py',
+   'PYMODULE'),
+  ('pypdf._crypt_providers._fallback',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pypdf\\_crypt_providers\\_fallback.py',
+   'PYMODULE'),
+  ('pypdf._crypt_providers._pycryptodome',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pypdf\\_crypt_providers\\_pycryptodome.py',
+   'PYMODULE'),
+  ('pypdf._doc_common',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pypdf\\_doc_common.py',
+   'PYMODULE'),
+  ('pypdf._encryption',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pypdf\\_encryption.py',
+   'PYMODULE'),
+  ('pypdf._page',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pypdf\\_page.py',
+   'PYMODULE'),
+  ('pypdf._page_labels',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pypdf\\_page_labels.py',
+   'PYMODULE'),
+  ('pypdf._protocols',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pypdf\\_protocols.py',
+   'PYMODULE'),
+  ('pypdf._reader',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pypdf\\_reader.py',
+   'PYMODULE'),
+  ('pypdf._text_extraction',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pypdf\\_text_extraction\\__init__.py',
+   'PYMODULE'),
+  ('pypdf._text_extraction._layout_mode',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pypdf\\_text_extraction\\_layout_mode\\__init__.py',
+   'PYMODULE'),
+  ('pypdf._text_extraction._layout_mode._fixed_width_page',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pypdf\\_text_extraction\\_layout_mode\\_fixed_width_page.py',
+   'PYMODULE'),
+  ('pypdf._text_extraction._layout_mode._text_state_manager',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pypdf\\_text_extraction\\_layout_mode\\_text_state_manager.py',
+   'PYMODULE'),
+  ('pypdf._text_extraction._layout_mode._text_state_params',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pypdf\\_text_extraction\\_layout_mode\\_text_state_params.py',
+   'PYMODULE'),
+  ('pypdf._text_extraction._text_extractor',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pypdf\\_text_extraction\\_text_extractor.py',
+   'PYMODULE'),
+  ('pypdf._utils',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pypdf\\_utils.py',
+   'PYMODULE'),
+  ('pypdf._version',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pypdf\\_version.py',
+   'PYMODULE'),
+  ('pypdf._writer',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pypdf\\_writer.py',
+   'PYMODULE'),
+  ('pypdf.actions',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pypdf\\actions\\__init__.py',
+   'PYMODULE'),
+  ('pypdf.actions._actions',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pypdf\\actions\\_actions.py',
+   'PYMODULE'),
+  ('pypdf.constants',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pypdf\\constants.py',
+   'PYMODULE'),
+  ('pypdf.errors',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pypdf\\errors.py',
+   'PYMODULE'),
+  ('pypdf.filters',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pypdf\\filters.py',
+   'PYMODULE'),
+  ('pypdf.generic',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pypdf\\generic\\__init__.py',
+   'PYMODULE'),
+  ('pypdf.generic._appearance_stream',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pypdf\\generic\\_appearance_stream.py',
+   'PYMODULE'),
+  ('pypdf.generic._base',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pypdf\\generic\\_base.py',
+   'PYMODULE'),
+  ('pypdf.generic._color',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pypdf\\generic\\_color.py',
+   'PYMODULE'),
+  ('pypdf.generic._data_structures',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pypdf\\generic\\_data_structures.py',
+   'PYMODULE'),
+  ('pypdf.generic._files',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pypdf\\generic\\_files.py',
+   'PYMODULE'),
+  ('pypdf.generic._fit',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pypdf\\generic\\_fit.py',
+   'PYMODULE'),
+  ('pypdf.generic._font',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pypdf\\generic\\_font.py',
+   'PYMODULE'),
+  ('pypdf.generic._image_inline',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pypdf\\generic\\_image_inline.py',
+   'PYMODULE'),
+  ('pypdf.generic._image_xobject',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pypdf\\generic\\_image_xobject.py',
+   'PYMODULE'),
+  ('pypdf.generic._link',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pypdf\\generic\\_link.py',
+   'PYMODULE'),
+  ('pypdf.generic._outline',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pypdf\\generic\\_outline.py',
+   'PYMODULE'),
+  ('pypdf.generic._rectangle',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pypdf\\generic\\_rectangle.py',
+   'PYMODULE'),
+  ('pypdf.generic._utils',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pypdf\\generic\\_utils.py',
+   'PYMODULE'),
+  ('pypdf.generic._viewerpref',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pypdf\\generic\\_viewerpref.py',
+   'PYMODULE'),
+  ('pypdf.pagerange',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pypdf\\pagerange.py',
+   'PYMODULE'),
+  ('pypdf.papersizes',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pypdf\\papersizes.py',
+   'PYMODULE'),
+  ('pypdf.types',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pypdf\\types.py',
+   'PYMODULE'),
+  ('pypdf.xmp',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pypdf\\xmp.py',
+   'PYMODULE'),
+  ('queue',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\queue.py',
+   'PYMODULE'),
+  ('quopri',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\quopri.py',
+   'PYMODULE'),
+  ('random',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\random.py',
+   'PYMODULE'),
+  ('requests',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\requests\\__init__.py',
+   'PYMODULE'),
+  ('requests.__version__',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\requests\\__version__.py',
+   'PYMODULE'),
+  ('requests._internal_utils',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\requests\\_internal_utils.py',
+   'PYMODULE'),
+  ('requests._types',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\requests\\_types.py',
+   'PYMODULE'),
+  ('requests.adapters',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\requests\\adapters.py',
+   'PYMODULE'),
+  ('requests.api',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\requests\\api.py',
+   'PYMODULE'),
+  ('requests.auth',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\requests\\auth.py',
+   'PYMODULE'),
+  ('requests.certs',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\requests\\certs.py',
+   'PYMODULE'),
+  ('requests.compat',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\requests\\compat.py',
+   'PYMODULE'),
+  ('requests.cookies',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\requests\\cookies.py',
+   'PYMODULE'),
+  ('requests.exceptions',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\requests\\exceptions.py',
+   'PYMODULE'),
+  ('requests.hooks',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\requests\\hooks.py',
+   'PYMODULE'),
+  ('requests.models',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\requests\\models.py',
+   'PYMODULE'),
+  ('requests.packages',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\requests\\packages.py',
+   'PYMODULE'),
+  ('requests.sessions',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\requests\\sessions.py',
+   'PYMODULE'),
+  ('requests.status_codes',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\requests\\status_codes.py',
+   'PYMODULE'),
+  ('requests.structures',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\requests\\structures.py',
+   'PYMODULE'),
+  ('requests.utils',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\requests\\utils.py',
+   'PYMODULE'),
+  ('rlcompleter',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\rlcompleter.py',
+   'PYMODULE'),
+  ('runpy',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\runpy.py',
+   'PYMODULE'),
+  ('secrets',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\secrets.py',
+   'PYMODULE'),
+  ('selectors',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\selectors.py',
+   'PYMODULE'),
+  ('setuptools',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._core_metadata',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_core_metadata.py',
+   'PYMODULE'),
+  ('setuptools._discovery',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_discovery.py',
+   'PYMODULE'),
+  ('setuptools._distutils',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._distutils._dataclass',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\_dataclass.py',
+   'PYMODULE'),
+  ('setuptools._distutils._log',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\_log.py',
+   'PYMODULE'),
+  ('setuptools._distutils._modified',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\_modified.py',
+   'PYMODULE'),
+  ('setuptools._distutils._msvccompiler',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\_msvccompiler.py',
+   'PYMODULE'),
+  ('setuptools._distutils.archive_util',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\archive_util.py',
+   'PYMODULE'),
+  ('setuptools._distutils.ccompiler',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\ccompiler.py',
+   'PYMODULE'),
+  ('setuptools._distutils.cmd',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\cmd.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\command\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.bdist',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\command\\bdist.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.build',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\command\\build.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.build_ext',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\command\\build_ext.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.sdist',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\command\\sdist.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compat',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\compat\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compat.numpy',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\compat\\numpy.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compat.py310',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\compat\\py310.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compilers', '-', 'PYMODULE'),
+  ('setuptools._distutils.compilers.C', '-', 'PYMODULE'),
+  ('setuptools._distutils.compilers.C.base',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\compilers\\C\\base.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compilers.C.cygwin',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\compilers\\C\\cygwin.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compilers.C.errors',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\compilers\\C\\errors.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compilers.C.msvc',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\compilers\\C\\msvc.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compilers.C.unix',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\compilers\\C\\unix.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compilers.C.zos',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\compilers\\C\\zos.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compilers._modified',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\compilers\\_modified.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compilers._util',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\compilers\\_util.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compilers.errors',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\compilers\\errors.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compilers.logging',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\compilers\\logging.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compilers.platform', '-', 'PYMODULE'),
+  ('setuptools._distutils.compilers.platform.detect',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\compilers\\platform\\detect.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compilers.platform.macos',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\compilers\\platform\\macos.py',
+   'PYMODULE'),
+  ('setuptools._distutils.core',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\core.py',
+   'PYMODULE'),
+  ('setuptools._distutils.debug',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\debug.py',
+   'PYMODULE'),
+  ('setuptools._distutils.dir_util',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\dir_util.py',
+   'PYMODULE'),
+  ('setuptools._distutils.dist',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\dist.py',
+   'PYMODULE'),
+  ('setuptools._distutils.errors',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\errors.py',
+   'PYMODULE'),
+  ('setuptools._distutils.extension',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\extension.py',
+   'PYMODULE'),
+  ('setuptools._distutils.fancy_getopt',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\fancy_getopt.py',
+   'PYMODULE'),
+  ('setuptools._distutils.file_util',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\file_util.py',
+   'PYMODULE'),
+  ('setuptools._distutils.filelist',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\filelist.py',
+   'PYMODULE'),
+  ('setuptools._distutils.log',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\log.py',
+   'PYMODULE'),
+  ('setuptools._distutils.spawn',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\spawn.py',
+   'PYMODULE'),
+  ('setuptools._distutils.sysconfig',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\sysconfig.py',
+   'PYMODULE'),
+  ('setuptools._distutils.text_file',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\text_file.py',
+   'PYMODULE'),
+  ('setuptools._distutils.util',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\util.py',
+   'PYMODULE'),
+  ('setuptools._distutils.version',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\version.py',
+   'PYMODULE'),
+  ('setuptools._distutils.versionpredicate',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\versionpredicate.py',
+   'PYMODULE'),
+  ('setuptools._entry_points',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_entry_points.py',
+   'PYMODULE'),
+  ('setuptools._imp',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_imp.py',
+   'PYMODULE'),
+  ('setuptools._importlib',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_importlib.py',
+   'PYMODULE'),
+  ('setuptools._itertools',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_itertools.py',
+   'PYMODULE'),
+  ('setuptools._normalization',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_normalization.py',
+   'PYMODULE'),
+  ('setuptools._path',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_path.py',
+   'PYMODULE'),
+  ('setuptools._reqs',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_reqs.py',
+   'PYMODULE'),
+  ('setuptools._shutil',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_shutil.py',
+   'PYMODULE'),
+  ('setuptools._static',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_static.py',
+   'PYMODULE'),
+  ('setuptools._vendor', '-', 'PYMODULE'),
+  ('setuptools._vendor.backports',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\backports\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.backports.tarfile',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\backports\\tarfile\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.backports.tarfile.compat',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\backports\\tarfile\\compat\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.backports.tarfile.compat.py38',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\backports\\tarfile\\compat\\py38.py',
+   'PYMODULE'),
+  ('setuptools._vendor.jaraco', '-', 'PYMODULE'),
+  ('setuptools._vendor.jaraco.context',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\jaraco\\context\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.jaraco.functools',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\jaraco\\functools\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.jaraco.text',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\jaraco\\text\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.more_itertools',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\more_itertools\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.more_itertools.more',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\more_itertools\\more.py',
+   'PYMODULE'),
+  ('setuptools._vendor.more_itertools.recipes',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\more_itertools\\recipes.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._elffile',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\_elffile.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._manylinux',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\_manylinux.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._musllinux',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\_musllinux.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._parser',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\_parser.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._structures',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._tokenizer',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\_tokenizer.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.markers',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\markers.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.requirements',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.specifiers',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.tags',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\tags.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.utils',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\utils.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.version',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\version.py',
+   'PYMODULE'),
+  ('setuptools._vendor.tomli',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\tomli\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.tomli._parser',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\tomli\\_parser.py',
+   'PYMODULE'),
+  ('setuptools._vendor.tomli._re',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\tomli\\_re.py',
+   'PYMODULE'),
+  ('setuptools._vendor.tomli._types',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\tomli\\_types.py',
+   'PYMODULE'),
+  ('setuptools._vendor.wheel',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\wheel\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.wheel.macosx_libfile',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\wheel\\macosx_libfile.py',
+   'PYMODULE'),
+  ('setuptools._vendor.wheel.wheelfile',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\wheel\\wheelfile.py',
+   'PYMODULE'),
+  ('setuptools._vendor.zipp',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\zipp\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.zipp._functools',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\zipp\\_functools.py',
+   'PYMODULE'),
+  ('setuptools._vendor.zipp.compat',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\zipp\\compat\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.zipp.compat.py310',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\zipp\\compat\\py310.py',
+   'PYMODULE'),
+  ('setuptools._vendor.zipp.compat.py313',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\zipp\\compat\\py313.py',
+   'PYMODULE'),
+  ('setuptools._vendor.zipp.glob',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\zipp\\glob.py',
+   'PYMODULE'),
+  ('setuptools.archive_util',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\archive_util.py',
+   'PYMODULE'),
+  ('setuptools.command',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\command\\__init__.py',
+   'PYMODULE'),
+  ('setuptools.command._requirestxt',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\command\\_requirestxt.py',
+   'PYMODULE'),
+  ('setuptools.command.bdist_egg',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\command\\bdist_egg.py',
+   'PYMODULE'),
+  ('setuptools.command.bdist_wheel',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\command\\bdist_wheel.py',
+   'PYMODULE'),
+  ('setuptools.command.build',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\command\\build.py',
+   'PYMODULE'),
+  ('setuptools.command.egg_info',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\command\\egg_info.py',
+   'PYMODULE'),
+  ('setuptools.command.sdist',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\command\\sdist.py',
+   'PYMODULE'),
+  ('setuptools.command.setopt',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\command\\setopt.py',
+   'PYMODULE'),
+  ('setuptools.compat',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\compat\\__init__.py',
+   'PYMODULE'),
+  ('setuptools.compat.py310',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\compat\\py310.py',
+   'PYMODULE'),
+  ('setuptools.compat.py311',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\compat\\py311.py',
+   'PYMODULE'),
+  ('setuptools.compat.py39',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\compat\\py39.py',
+   'PYMODULE'),
+  ('setuptools.config',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\config\\__init__.py',
+   'PYMODULE'),
+  ('setuptools.config._apply_pyprojecttoml',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\config\\_apply_pyprojecttoml.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\__init__.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject.error_reporting',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\error_reporting.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject.extra_validations',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\extra_validations.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject.fastjsonschema_exceptions',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\fastjsonschema_exceptions.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject.fastjsonschema_validations',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\fastjsonschema_validations.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject.formats',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\formats.py',
+   'PYMODULE'),
+  ('setuptools.config.expand',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\config\\expand.py',
+   'PYMODULE'),
+  ('setuptools.config.pyprojecttoml',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\config\\pyprojecttoml.py',
+   'PYMODULE'),
+  ('setuptools.config.setupcfg',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\config\\setupcfg.py',
+   'PYMODULE'),
+  ('setuptools.depends',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\depends.py',
+   'PYMODULE'),
+  ('setuptools.discovery',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\discovery.py',
+   'PYMODULE'),
+  ('setuptools.dist',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\dist.py',
+   'PYMODULE'),
+  ('setuptools.errors',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\errors.py',
+   'PYMODULE'),
+  ('setuptools.extension',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\extension.py',
+   'PYMODULE'),
+  ('setuptools.glob',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\glob.py',
+   'PYMODULE'),
+  ('setuptools.installer',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\installer.py',
+   'PYMODULE'),
+  ('setuptools.logging',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\logging.py',
+   'PYMODULE'),
+  ('setuptools.monkey',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\monkey.py',
+   'PYMODULE'),
+  ('setuptools.msvc',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\msvc.py',
+   'PYMODULE'),
+  ('setuptools.unicode_utils',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\unicode_utils.py',
+   'PYMODULE'),
+  ('setuptools.version',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\version.py',
+   'PYMODULE'),
+  ('setuptools.warnings',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\warnings.py',
+   'PYMODULE'),
+  ('setuptools.wheel',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\wheel.py',
+   'PYMODULE'),
+  ('setuptools.windows_support',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\windows_support.py',
+   'PYMODULE'),
+  ('shlex',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\shlex.py',
+   'PYMODULE'),
+  ('shutil',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\shutil.py',
+   'PYMODULE'),
+  ('signal',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\signal.py',
+   'PYMODULE'),
+  ('site',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site.py',
+   'PYMODULE'),
+  ('socket',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\socket.py',
+   'PYMODULE'),
+  ('socketserver',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\socketserver.py',
+   'PYMODULE'),
+  ('soupsieve',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\soupsieve\\__init__.py',
+   'PYMODULE'),
+  ('soupsieve.__meta__',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\soupsieve\\__meta__.py',
+   'PYMODULE'),
+  ('soupsieve.css_match',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\soupsieve\\css_match.py',
+   'PYMODULE'),
+  ('soupsieve.css_parser',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\soupsieve\\css_parser.py',
+   'PYMODULE'),
+  ('soupsieve.css_types',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\soupsieve\\css_types.py',
+   'PYMODULE'),
+  ('soupsieve.pretty',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\soupsieve\\pretty.py',
+   'PYMODULE'),
+  ('soupsieve.util',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\soupsieve\\util.py',
+   'PYMODULE'),
+  ('ssl',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ssl.py',
+   'PYMODULE'),
+  ('statistics',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\statistics.py',
+   'PYMODULE'),
+  ('string',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\string.py',
+   'PYMODULE'),
+  ('stringprep',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\stringprep.py',
+   'PYMODULE'),
+  ('subprocess',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\subprocess.py',
+   'PYMODULE'),
+  ('sysconfig',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\sysconfig.py',
+   'PYMODULE'),
+  ('tarfile',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tarfile.py',
+   'PYMODULE'),
+  ('tempfile',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tempfile.py',
+   'PYMODULE'),
+  ('textwrap',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\textwrap.py',
+   'PYMODULE'),
+  ('threading',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\threading.py',
+   'PYMODULE'),
+  ('tkinter',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tkinter\\__init__.py',
+   'PYMODULE'),
+  ('tkinter.commondialog',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tkinter\\commondialog.py',
+   'PYMODULE'),
+  ('tkinter.constants',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tkinter\\constants.py',
+   'PYMODULE'),
+  ('tkinter.dialog',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tkinter\\dialog.py',
+   'PYMODULE'),
+  ('tkinter.filedialog',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tkinter\\filedialog.py',
+   'PYMODULE'),
+  ('tkinter.messagebox',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tkinter\\messagebox.py',
+   'PYMODULE'),
+  ('tkinter.simpledialog',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tkinter\\simpledialog.py',
+   'PYMODULE'),
+  ('tkinter.ttk',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tkinter\\ttk.py',
+   'PYMODULE'),
+  ('token',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\token.py',
+   'PYMODULE'),
+  ('tokenize',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tokenize.py',
+   'PYMODULE'),
+  ('tomllib',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tomllib\\__init__.py',
+   'PYMODULE'),
+  ('tomllib._parser',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tomllib\\_parser.py',
+   'PYMODULE'),
+  ('tomllib._re',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tomllib\\_re.py',
+   'PYMODULE'),
+  ('tomllib._types',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tomllib\\_types.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('tty',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tty.py',
+   'PYMODULE'),
+  ('typing',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\typing.py',
+   'PYMODULE'),
+  ('typing_extensions',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\typing_extensions.py',
+   'PYMODULE'),
+  ('unittest',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\unittest\\__init__.py',
+   'PYMODULE'),
+  ('unittest._log',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\unittest\\_log.py',
+   'PYMODULE'),
+  ('unittest.async_case',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\unittest\\async_case.py',
+   'PYMODULE'),
+  ('unittest.case',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\unittest\\case.py',
+   'PYMODULE'),
+  ('unittest.loader',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\unittest\\loader.py',
+   'PYMODULE'),
+  ('unittest.main',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\unittest\\main.py',
+   'PYMODULE'),
+  ('unittest.result',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\unittest\\result.py',
+   'PYMODULE'),
+  ('unittest.runner',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\unittest\\runner.py',
+   'PYMODULE'),
+  ('unittest.signals',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\unittest\\signals.py',
+   'PYMODULE'),
+  ('unittest.suite',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\unittest\\suite.py',
+   'PYMODULE'),
+  ('unittest.util',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\unittest\\util.py',
+   'PYMODULE'),
+  ('urllib',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('urllib.error',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\urllib\\error.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('urllib.request',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\urllib\\request.py',
+   'PYMODULE'),
+  ('urllib.response',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\urllib\\response.py',
+   'PYMODULE'),
+  ('urllib3',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\__init__.py',
+   'PYMODULE'),
+  ('urllib3._base_connection',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\_base_connection.py',
+   'PYMODULE'),
+  ('urllib3._collections',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\_collections.py',
+   'PYMODULE'),
+  ('urllib3._request_methods',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\_request_methods.py',
+   'PYMODULE'),
+  ('urllib3._version',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\_version.py',
+   'PYMODULE'),
+  ('urllib3.connection',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\connection.py',
+   'PYMODULE'),
+  ('urllib3.connectionpool',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\connectionpool.py',
+   'PYMODULE'),
+  ('urllib3.contrib',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\contrib\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.contrib.emscripten',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\contrib\\emscripten\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.contrib.emscripten.connection',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\contrib\\emscripten\\connection.py',
+   'PYMODULE'),
+  ('urllib3.contrib.emscripten.fetch',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\contrib\\emscripten\\fetch.py',
+   'PYMODULE'),
+  ('urllib3.contrib.emscripten.request',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\contrib\\emscripten\\request.py',
+   'PYMODULE'),
+  ('urllib3.contrib.emscripten.response',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\contrib\\emscripten\\response.py',
+   'PYMODULE'),
+  ('urllib3.contrib.pyopenssl',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\contrib\\pyopenssl.py',
+   'PYMODULE'),
+  ('urllib3.contrib.socks',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\contrib\\socks.py',
+   'PYMODULE'),
+  ('urllib3.exceptions',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\exceptions.py',
+   'PYMODULE'),
+  ('urllib3.fields',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\fields.py',
+   'PYMODULE'),
+  ('urllib3.filepost',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\filepost.py',
+   'PYMODULE'),
+  ('urllib3.http2',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\http2\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.http2.connection',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\http2\\connection.py',
+   'PYMODULE'),
+  ('urllib3.http2.probe',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\http2\\probe.py',
+   'PYMODULE'),
+  ('urllib3.poolmanager',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\poolmanager.py',
+   'PYMODULE'),
+  ('urllib3.response',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\response.py',
+   'PYMODULE'),
+  ('urllib3.util',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\util\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.util.connection',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\util\\connection.py',
+   'PYMODULE'),
+  ('urllib3.util.proxy',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\util\\proxy.py',
+   'PYMODULE'),
+  ('urllib3.util.request',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\util\\request.py',
+   'PYMODULE'),
+  ('urllib3.util.response',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\util\\response.py',
+   'PYMODULE'),
+  ('urllib3.util.retry',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\util\\retry.py',
+   'PYMODULE'),
+  ('urllib3.util.ssl_',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\util\\ssl_.py',
+   'PYMODULE'),
+  ('urllib3.util.ssl_match_hostname',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\util\\ssl_match_hostname.py',
+   'PYMODULE'),
+  ('urllib3.util.ssltransport',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\util\\ssltransport.py',
+   'PYMODULE'),
+  ('urllib3.util.timeout',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\util\\timeout.py',
+   'PYMODULE'),
+  ('urllib3.util.url',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\util\\url.py',
+   'PYMODULE'),
+  ('urllib3.util.util',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\util\\util.py',
+   'PYMODULE'),
+  ('urllib3.util.wait',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\util\\wait.py',
+   'PYMODULE'),
+  ('uuid',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\uuid.py',
+   'PYMODULE'),
+  ('webbrowser',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\webbrowser.py',
+   'PYMODULE'),
+  ('xml',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\__init__.py',
+   'PYMODULE'),
+  ('xml.dom',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\dom\\__init__.py',
+   'PYMODULE'),
+  ('xml.dom.NodeFilter',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\dom\\NodeFilter.py',
+   'PYMODULE'),
+  ('xml.dom.domreg',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\dom\\domreg.py',
+   'PYMODULE'),
+  ('xml.dom.expatbuilder',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\dom\\expatbuilder.py',
+   'PYMODULE'),
+  ('xml.dom.minicompat',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\dom\\minicompat.py',
+   'PYMODULE'),
+  ('xml.dom.minidom',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\dom\\minidom.py',
+   'PYMODULE'),
+  ('xml.dom.pulldom',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\dom\\pulldom.py',
+   'PYMODULE'),
+  ('xml.dom.xmlbuilder',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\dom\\xmlbuilder.py',
+   'PYMODULE'),
+  ('xml.parsers',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('xml.parsers.expat',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('xml.sax',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\sax\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax._exceptions',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.handler',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\sax\\handler.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\sax\\saxutils.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('xmlrpc',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xmlrpc\\__init__.py',
+   'PYMODULE'),
+  ('xmlrpc.client',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xmlrpc\\client.py',
+   'PYMODULE'),
+  ('zipfile',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\zipfile\\__init__.py',
+   'PYMODULE'),
+  ('zipfile._path',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\zipfile\\_path\\__init__.py',
+   'PYMODULE'),
+  ('zipfile._path.glob',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\zipfile\\_path\\glob.py',
+   'PYMODULE'),
+  ('zipimport',
+   'C:\\Users\\KARNALA '
+   'GAYATHRI\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\zipimport.py',
+   'PYMODULE')])

@@ -1,0 +1,117 @@
+SmartDesk AI - Conversation
+========================================
+Document: C:/Users/KARNALA GAYATHRI/SmartDesk_AI/sample.txt
+
+[2026-10-14 09:23:29] AI:
+Hi! Welcome to SmartDesk AI ✨
+
+Choose a PDF or TXT document, ask questions, or click Summarize to get started.
+
+[2026-10-14 09:24:33] AI:
+Document loaded successfully! 📄
+Unit V.txt
+You can now ask questions about this document.
+
+[2026-10-14 09:24:58] user:
+What are the key findings in this document?
+
+[2026-10-14 09:27:38] AI:
+Based on the provided document, the key findings are:
+
+1. JavaFX is used to create GUI (Graphical User Interface) applications, and the libraries used are Buttons, Textboxes, Windows, and Menus.
+2. Event basics: Events are actions performed by users, such as clicking buttons, pressing keyboard keys, and moving the mouse.
+3. Key event handling: Key events occur when keyboard keys are pressed, and there are three types of key events: KeyPressed, KeyReleased, and KeyTyped.
+4. Mouse event handling: Mouse events occur due to mouse actions, such as clicks, moves, and drags, with three types of mouse events: Click, Move, and Drag.
+5. Checkbox: A checkbox allows users to select multiple options, such as hobbies.
+6. Toggle button: A toggle button has two states: ON/OFF.
+7. Radio button: A radio button allows users to select only one option from a group, such as gender.
+8. ListView: A list view displays a list of items and allows users to select one item.
+9. ComboBox: A combo box shows a dropdown list of options.
+10. ChoiceBox: A choice box is similar to a combo box but is selected by a dropdown list.
+11. TextControl: Text controls are used to take user input, including TextField, TextArea, and Label.
+12. Scroll Pane: A scroll pane provides scrolling for large or small content.
+13. Flow Pane: A flow pane places controls one after the other.
+14. HBox: An HBox prints values horizontally.
+15. VBox: A VBox prints values vertically.
+16. BorderPane: A border pane has left, right, center, bottom, and top regions.
+17. StackPane: A stack pane places controls on top of each other.
+18. Grid Pane: A grid pane is similar to a table with rows and columns.
+19. Menu: A menu provides a list of options.
+20. MenuBar: A menu bar is similar to a menu but is presented as icons.
+
+These findings are supported by the document and are accurate based on the information provided.
+
+[2026-10-14 09:27:45] user:
+Please summarize this document.
+
+[2026-10-14 09:29:00] AI:
+Based on the provided document, here is a summary of the main points, key facts, conclusions, and action items:
+
+**Main Points:**
+
+1. JavaFX is used to create GUI components.
+2. Event handling is used to respond to user actions.
+3. Key events and mouse events are handled to respond to keyboard and mouse input.
+4. GUI components include buttons, textboxes, windows, menus, checkboxes, toggle buttons, radio buttons, list views, combo boxes, choice boxes, text controls, scroll panes, flow panes, HBox, VBox, BorderPane, and GridPane.
+
+**Key Facts:**
+
+1. JavaFX provides various GUI components for creating interactive user interfaces.
+2. Events are used to respond to user actions, such as button clicks and key presses.
+3. Key events include keyPressed, keyReleased, and keyTyped.
+4. Mouse events include click, move, and drag.
+5. GUI components can be arranged using various layouts, such as FlowPane, HBox, VBox, BorderPane, and GridPane.
+
+**Conclusions:**
+
+1. JavaFX is a powerful tool for creating GUI applications.
+2. Event handling is essential for responding to user input.
+3. GUI components can be used to create interactive and user-friendly interfaces.
+
+**Action Items:**
+
+1. Familiarize yourself with JavaFX and its various GUI components.
+2. Learn how to handle events and respond to user input.
+3. Practice using different layouts to arrange GUI components.
+4. Experiment with various GUI components and their properties to create interactive interfaces.
+
+Note: This summary is based on the provided document and does not include any additional information or inventions.
+
+[2026-10-14 09:31:14] AI:
+Document loaded successfully! 📄
+sample.txt
+You can now ask questions about this document.
+
+[2026-10-14 09:31:28] user:
+How many employees enrolled in the training program
+
+[2026-10-14 09:31:37] AI:
+According to the document, a total of 120 employees enrolled in the training program.
+
+[2026-10-14 09:32:14] user:
+Please summarize this document.
+
+[2026-10-14 09:32:37] AI:
+Based on the provided document, here's a summary of the main points, key facts, conclusions, and action items:
+
+Main Points:
+
+* A new employee training program was launched by the company in January 2026.
+* The program focuses on Java, Python, and Artificial Intelligence.
+
+Key Facts:
+
+* A total of 120 employees enrolled in the program.
+* The program aims to improve technical skills and productivity.
+
+Conclusions:
+
+* The program's main objective is to enhance the technical abilities of employees.
+
+Action Items:
+
+* Evaluate the program's results after three months.
+* No specific action items are mentioned in the document.
+
+Note: The document does not provide detailed information about the program's content, methodology, or expected outcomes, so no additional conclusions or action items can be inferred.
+
