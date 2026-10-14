@@ -1,0 +1,6 @@
+Flask
+gunicorn
+requests
+pypdf
+python-docx
+scikit-learn
